@@ -1,0 +1,2 @@
+# Data-analysis-on-Halloween-candy-dataset
+This dataset comes from the poll conducted by FiveThirtyEight website that generated random matchups of two candies and let a person choose which candy they liked more. Using this method , FiveThirtyEight sample 8,371 different IP addresses who voted on about 269000 randomly generated matchups. So our task to predict if a candy has the flavor chocolate in it which is one the features in the dataset. 
